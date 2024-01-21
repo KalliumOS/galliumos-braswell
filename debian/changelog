@@ -1,3 +1,10 @@
+galliumos-braswell (22.04) phoenix; urgency=medium
+
+  * Update for 22.04
+  * Remove most audio related stuff (for now)
+
+ -- Kraslin <git@kraslovision.com>  Sat, 20 Jan 2024 21:44:20 -0500
+
 galliumos-braswell (3.0) bismuth; urgency=medium
 
   * Prepare for GalliumOS 3.0

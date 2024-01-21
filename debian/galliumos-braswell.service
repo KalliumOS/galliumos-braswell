@@ -2,7 +2,7 @@
 Description=GalliumOS system customization for Braswell models
 
 [Service]
-ExecStart=/usr/bin/init-braswell-settings
+ExecStart=/usr/sbin/galliumos-braswell-init
 Type=oneshot
 RemainAfterExit=true
 
